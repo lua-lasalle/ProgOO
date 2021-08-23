@@ -1,7 +1,7 @@
 /*  Luana da Costa Bueno
     Matricula: 0050014451    */
     
-    public class tabuada {
+    public class Tabuada {
 	
 		public static void main(String[] args) {
 			
